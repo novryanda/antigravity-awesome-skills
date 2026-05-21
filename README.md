@@ -627,6 +627,8 @@ We officially thank the following contributors for their help in making this rep
 - [@mturac](https://github.com/mturac)
 - [@bulkmockupsfiller-ai](https://github.com/bulkmockupsfiller-ai)
 - [@Karthikeya-Meesala](https://github.com/Karthikeya-Meesala)
+- [@gregkonush](https://github.com/gregkonush)
+- [@sulavmgr456-byte](https://github.com/sulavmgr456-byte)
 
 ## Star History
 
